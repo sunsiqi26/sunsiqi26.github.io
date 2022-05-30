@@ -1,0 +1,38 @@
+baseURL = 'http://localhost:1233'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "npq-hugo"
+pygmentsUseClasses = true
+
+[params]
+  author = "siqi Sun"
+  description = "your description"
+  keywords = "hugo blog"
+  useAvatar = true
+  microBlogSection = "posts"
+  displayMicroBlog = true
+  displayRecent = true
+  recentMax = 4
+  mail = "2924045192@qq.com"
+
+[menu]
+  [[menu.main]]
+    name = "home"
+    pre = "<i class=\"fas fa-home fa-sm\"></i>"
+    url = "/"
+    weight = -9 
+  [[menu.main]]
+    name = "blog"
+    pre = "<i class=\"fas fa-keyboard fa-ms\"></i>"
+    url = "/blog/"
+    weight = -8
+  [[menu.main]]
+    name = "tags"
+    pre = "<i class=\"fas fa-tags fa-ms\"></i>"
+    url = "/tags"
+    weight = -7 
+  [[menu.main]]
+    name = "github"
+    pre = "<i class=\"fab fa-github fa-ms\"></i>"
+    url = "https://github.com/sunsiqi26"
+    weight = -6 
