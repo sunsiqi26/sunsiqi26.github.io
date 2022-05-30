@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1233'
+baseURL = 'https://sunsiqi26.github.io/content/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "npq-hugo"
