@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 baseURL = 'https://sunsiqi26.github.io/'
+=======
+baseURL = 'https://sunsiqi26.github.io/content/'
+>>>>>>> 6f668fe956a69812c6ed57f6b4f4467b1c8e4d3b
 languageCode = 'en-us'
 title = 'Record'
 theme = "npq-hugo"
