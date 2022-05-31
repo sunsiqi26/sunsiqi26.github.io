@@ -1,6 +1,6 @@
-baseURL = 'http://localhost:1233'
+baseURL = 'https://sunsiqi26.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Record'
 theme = "npq-hugo"
 pygmentsUseClasses = true
 
