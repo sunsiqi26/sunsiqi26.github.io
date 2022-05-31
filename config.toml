@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 baseURL = 'https://sunsiqi26.github.io/content/'
+=======
+baseURL = 'https://sunsiqi26.github.io/'
+>>>>>>> 1065b7f (docs commit)
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Record'
 theme = "npq-hugo"
 pygmentsUseClasses = true
 

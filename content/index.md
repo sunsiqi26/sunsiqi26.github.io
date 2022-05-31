@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <table border="0">
   <tr>
     <td width="75%">
@@ -22,3 +23,5 @@
 ### Research Learning
 
 ### Notes
+=======
+>>>>>>> 1065b7f (docs commit)
