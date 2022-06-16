@@ -1,8 +1,9 @@
-baseURL = 'https://127.0.0.1:9999'
+baseURL = 'https://sunsiqi26.github.io/content/'
 languageCode = 'en-us'
 title = 'Record'
 theme = "npq-hugo"
 pygmentsUseClasses = true
+publishDir = "./public"
 
 [params]
   author = "siqi Sun"
