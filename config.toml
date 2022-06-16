@@ -1,8 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 baseURL = 'https://sunsiqi26.github.io/content/'
 =======
 baseURL = 'https://sunsiqi26.github.io/'
 >>>>>>> 1065b7f (docs commit)
+=======
+baseURL = 'https://sunsiqi26.github.io/'
+=======
+baseURL = 'https://sunsiqi26.github.io/content/'
+>>>>>>> 6f668fe956a69812c6ed57f6b4f4467b1c8e4d3b
+>>>>>>> ba24b76290ca058b345ef9b1a750b3638aed8198
 languageCode = 'en-us'
 title = 'Record'
 theme = "npq-hugo"
