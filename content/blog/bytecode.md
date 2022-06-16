@@ -1,3 +1,9 @@
+---
+title: "bytecode"
+date: 2022-05-26T20:04:02+08:00
+draft: true
+---
+
 ## V8 bytecode
 
 ### 环境
