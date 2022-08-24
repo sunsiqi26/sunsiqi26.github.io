@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Record</title>
-    <link>https://sunsiqi26.github.io/content/</link>
+    <link>https://127.0.0.1/</link>
     <description>Recent content on Record</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://sunsiqi26.github.io/content/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://127.0.0.1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cherry</title>
-      <link>https://sunsiqi26.github.io/content/</link>
+      <link>https://127.0.0.1/</link>
       <pubDate>Thu, 26 May 2022 20:04:02 +0800</pubDate>
       
-      <guid>https://sunsiqi26.github.io/content/</guid>
+      <guid>https://127.0.0.1/</guid>
       <description></description>
     </item>
     

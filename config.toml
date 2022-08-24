@@ -1,5 +1,5 @@
 baseURL = 'https://sunsiqi26.github.io/content/'
-languageCode = 'en-us'
+languageCode = 'zh-cn'
 title = 'Record'
 theme = "npq-hugo"
 pygmentsUseClasses = true

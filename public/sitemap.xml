@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sunsiqi26.github.io/content/</loc>
+    <loc>https://127.0.0.1/</loc>
     <lastmod>2022-05-26T20:04:02+08:00</lastmod>
   </url><url>
-    <loc>https://sunsiqi26.github.io/content/categories/</loc>
+    <loc>https://127.0.0.1/categories/</loc>
   </url><url>
-    <loc>https://sunsiqi26.github.io/content/</loc>
+    <loc>https://127.0.0.1/</loc>
   </url><url>
-    <loc>https://sunsiqi26.github.io/content/tags/</loc>
+    <loc>https://127.0.0.1/tags/</loc>
   </url>
 </urlset>

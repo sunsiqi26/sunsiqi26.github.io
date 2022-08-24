@@ -5,7 +5,7 @@ draft: false
 ---
 ### Paper Reading
 - [PR-Committed to Trust: A Qualitative Study on Security & Trust in Open Source Software Projects](./PR/committed-to-trust.md)
-- [supply-chain-attacks-paper](./supply-chain-attacks-paper.md)
+- [supply-chain-attacks-paper](supply-chain-attacks-paper.md)
 
 ### Record
 - [V8 bytecode](./bytecode.md)
