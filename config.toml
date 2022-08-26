@@ -1,13 +1,9 @@
-<<<<<<< HEAD
-baseURL = "https://sunsiqi26.github.io/"
-=======
 baseURL = 'https://sunsiqi26.github.io/'
 languageCode = 'zh-cn'
 title = 'Record'
 theme = "LoveIt"
 pygmentsUseClasses = true
 publishDir = "./public"
->>>>>>> 21d62928e1ca7533d1700dcc1e52507da23864c5
 
 # theme
 # 主题
