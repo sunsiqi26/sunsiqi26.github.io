@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>project dependency - Tag - Siqi</title>
-        <link>https://sunsiqi26.github.io/public/tags/project-dependency/</link>
+        <link>https://sunsiqi26.github.io/tags/project-dependency/</link>
         <description>project dependency - Tag - Siqi</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>2924045192@qq.com (Siqi Sun)</managingEditor>
-            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Mon, 25 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://sunsiqi26.github.io/public/tags/project-dependency/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Mon, 25 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://sunsiqi26.github.io/tags/project-dependency/" rel="self" type="application/rss+xml" /><item>
     <title>Paper Reading-NPM</title>
-    <link>https://sunsiqi26.github.io/public/pr-pdgraph/</link>
+    <link>https://sunsiqi26.github.io/pr-pdgraph/</link>
     <pubDate>Mon, 25 Jul 2022 21:57:40 &#43;0800</pubDate>
     <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/public/pr-pdgraph/</guid>
+    <guid>https://sunsiqi26.github.io/pr-pdgraph/</guid>
     <description><![CDATA[<p>针对不安全项目依赖的大规模实证研究</p>]]></description>
 </item>
 </channel>

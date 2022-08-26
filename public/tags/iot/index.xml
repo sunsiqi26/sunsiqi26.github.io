@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>IoT - Tag - Siqi</title>
-        <link>https://sunsiqi26.github.io/public/tags/iot/</link>
+        <link>https://sunsiqi26.github.io/tags/iot/</link>
         <description>IoT - Tag - Siqi</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>2924045192@qq.com (Siqi Sun)</managingEditor>
-            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Wed, 24 Aug 2022 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://sunsiqi26.github.io/public/tags/iot/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Wed, 24 Aug 2022 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://sunsiqi26.github.io/tags/iot/" rel="self" type="application/rss+xml" /><item>
     <title>Paper Reading-ADEPT</title>
-    <link>https://sunsiqi26.github.io/public/pr-adept/</link>
+    <link>https://sunsiqi26.github.io/pr-adept/</link>
     <pubDate>Wed, 24 Aug 2022 21:29:01 &#43;0800</pubDate>
     <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/public/pr-adept/</guid>
+    <guid>https://sunsiqi26.github.io/pr-adept/</guid>
     <description><![CDATA[<p>物联网相关攻击阶段的检测和识别</p>]]></description>
 </item>
 </channel>

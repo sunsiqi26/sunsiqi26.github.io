@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>WebAssembly - Tag - Siqi</title>
-        <link>https://sunsiqi26.github.io/public/tags/webassembly/</link>
+        <link>https://sunsiqi26.github.io/tags/webassembly/</link>
         <description>WebAssembly - Tag - Siqi</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>2924045192@qq.com (Siqi Sun)</managingEditor>
-            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Tue, 24 May 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://sunsiqi26.github.io/public/tags/webassembly/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Tue, 24 May 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://sunsiqi26.github.io/tags/webassembly/" rel="self" type="application/rss+xml" /><item>
     <title>Paper Reading-JS</title>
-    <link>https://sunsiqi26.github.io/public/pr-js/</link>
+    <link>https://sunsiqi26.github.io/pr-js/</link>
     <pubDate>Tue, 24 May 2022 21:57:40 &#43;0800</pubDate>
     <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/public/pr-js/</guid>
+    <guid>https://sunsiqi26.github.io/pr-js/</guid>
     <description><![CDATA[<p>将部分JavaScript恶意代码转换为WebAssembly以逃避检测</p>]]></description>
 </item>
 </channel>

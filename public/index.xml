@@ -1,89 +1,89 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Siqi</title>
-        <link>https://sunsiqi26.github.io/public/</link>
+        <link>https://sunsiqi26.github.io/</link>
         <description>Hugo theme - LoveIt</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>2924045192@qq.com (Siqi Sun)</managingEditor>
             <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Wed, 24 Aug 2022 21:29:01 &#43;0800</lastBuildDate>
-            <atom:link href="https://sunsiqi26.github.io/public/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://sunsiqi26.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Paper Reading-ADEPT</title>
-    <link>https://sunsiqi26.github.io/public/pr-adept/</link>
+    <link>https://sunsiqi26.github.io/pr-adept/</link>
     <pubDate>Wed, 24 Aug 2022 21:29:01 &#43;0800</pubDate>
     <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/public/pr-adept/</guid>
+    <guid>https://sunsiqi26.github.io/pr-adept/</guid>
     <description><![CDATA[<p>物联网相关攻击阶段的检测和识别</p>]]></description>
 </item>
 <item>
     <title>Paper Reading-Supply Chain</title>
-    <link>https://sunsiqi26.github.io/public/pr-taxonomy/</link>
+    <link>https://sunsiqi26.github.io/pr-taxonomy/</link>
     <pubDate>Sun, 31 Jul 2022 21:29:01 &#43;0800</pubDate>
     <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/public/pr-taxonomy/</guid>
+    <guid>https://sunsiqi26.github.io/pr-taxonomy/</guid>
     <description><![CDATA[<p>开源软件供应链攻击分类</p>]]></description>
 </item>
 <item>
     <title>Paper Reading-NPM</title>
-    <link>https://sunsiqi26.github.io/public/pr-pdgraph/</link>
+    <link>https://sunsiqi26.github.io/pr-pdgraph/</link>
     <pubDate>Mon, 25 Jul 2022 21:57:40 &#43;0800</pubDate>
     <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/public/pr-pdgraph/</guid>
+    <guid>https://sunsiqi26.github.io/pr-pdgraph/</guid>
     <description><![CDATA[<p>针对不安全项目依赖的大规模实证研究</p>]]></description>
 </item>
 <item>
     <title>Note-Bytecode</title>
-    <link>https://sunsiqi26.github.io/public/note-bytecode/</link>
+    <link>https://sunsiqi26.github.io/note-bytecode/</link>
     <pubDate>Mon, 11 Jul 2022 21:57:40 &#43;0800</pubDate>
     <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/public/note-bytecode/</guid>
+    <guid>https://sunsiqi26.github.io/note-bytecode/</guid>
     <description><![CDATA[<p>V8 Bytecode学习记录</p>]]></description>
 </item>
 <item>
     <title>Paper Reading-OSS</title>
-    <link>https://sunsiqi26.github.io/public/pr-oss/</link>
+    <link>https://sunsiqi26.github.io/pr-oss/</link>
     <pubDate>Sun, 03 Jul 2022 21:57:40 &#43;0800</pubDate>
     <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/public/pr-oss/</guid>
+    <guid>https://sunsiqi26.github.io/pr-oss/</guid>
     <description><![CDATA[<p>开源软件项目安全与信任的定性研究</p>]]></description>
 </item>
 <item>
     <title>Paper Reading-NPM</title>
-    <link>https://sunsiqi26.github.io/public/pr-npm/</link>
+    <link>https://sunsiqi26.github.io/pr-npm/</link>
     <pubDate>Tue, 14 Jun 2022 21:57:40 &#43;0800</pubDate>
     <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/public/pr-npm/</guid>
+    <guid>https://sunsiqi26.github.io/pr-npm/</guid>
     <description><![CDATA[<p>NPM生态中的弃用机制研究</p>]]></description>
 </item>
 <item>
     <title>Note-Supply Chain Security</title>
-    <link>https://sunsiqi26.github.io/public/note-supplychain/</link>
+    <link>https://sunsiqi26.github.io/note-supplychain/</link>
     <pubDate>Fri, 03 Jun 2022 21:57:40 &#43;0800</pubDate>
     <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/public/note-supplychain/</guid>
+    <guid>https://sunsiqi26.github.io/note-supplychain/</guid>
     <description><![CDATA[<p>供应链安全学习记录</p>]]></description>
 </item>
 <item>
     <title>SP&#39;22 paper list</title>
-    <link>https://sunsiqi26.github.io/public/pl-sp22/</link>
+    <link>https://sunsiqi26.github.io/pl-sp22/</link>
     <pubDate>Wed, 01 Jun 2022 21:57:40 &#43;0800</pubDate>
     <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/public/pl-sp22/</guid>
+    <guid>https://sunsiqi26.github.io/pl-sp22/</guid>
     <description><![CDATA[<p>SP'22相关论文记录</p>]]></description>
 </item>
 <item>
     <title>Paper Reading-JS</title>
-    <link>https://sunsiqi26.github.io/public/pr-js/</link>
+    <link>https://sunsiqi26.github.io/pr-js/</link>
     <pubDate>Tue, 24 May 2022 21:57:40 &#43;0800</pubDate>
     <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/public/pr-js/</guid>
+    <guid>https://sunsiqi26.github.io/pr-js/</guid>
     <description><![CDATA[<p>将部分JavaScript恶意代码转换为WebAssembly以逃避检测</p>]]></description>
 </item>
 <item>
     <title>Paper Reading-KG</title>
-    <link>https://sunsiqi26.github.io/public/pr-kg/</link>
+    <link>https://sunsiqi26.github.io/pr-kg/</link>
     <pubDate>Tue, 24 May 2022 21:57:40 &#43;0800</pubDate>
     <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/public/pr-kg/</guid>
+    <guid>https://sunsiqi26.github.io/pr-kg/</guid>
     <description><![CDATA[<p>使用系统审计记录进行推荐的网络威胁分析</p>]]></description>
 </item>
 </channel>

@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 baseURL = "https://127.0.0.1/"
+=======
+baseURL = 'https://sunsiqi26.github.io/'
+languageCode = 'zh-cn'
+title = 'Record'
+theme = "npq-hugo"
+pygmentsUseClasses = true
+publishDir = "./docs"
+>>>>>>> 21d62928e1ca7533d1700dcc1e52507da23864c5
 
 # theme
 # 主题

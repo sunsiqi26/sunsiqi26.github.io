@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>system audit - Tag - Siqi</title>
-        <link>https://sunsiqi26.github.io/public/tags/system-audit/</link>
+        <link>https://sunsiqi26.github.io/tags/system-audit/</link>
         <description>system audit - Tag - Siqi</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>2924045192@qq.com (Siqi Sun)</managingEditor>
-            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Tue, 24 May 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://sunsiqi26.github.io/public/tags/system-audit/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Tue, 24 May 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://sunsiqi26.github.io/tags/system-audit/" rel="self" type="application/rss+xml" /><item>
     <title>Paper Reading-KG</title>
-    <link>https://sunsiqi26.github.io/public/pr-kg/</link>
+    <link>https://sunsiqi26.github.io/pr-kg/</link>
     <pubDate>Tue, 24 May 2022 21:57:40 &#43;0800</pubDate>
     <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/public/pr-kg/</guid>
+    <guid>https://sunsiqi26.github.io/pr-kg/</guid>
     <description><![CDATA[<p>使用系统审计记录进行推荐的网络威胁分析</p>]]></description>
 </item>
 </channel>

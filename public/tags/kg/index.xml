@@ -1,23 +1,23 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>KG - Tag - Siqi</title>
-        <link>https://sunsiqi26.github.io/public/tags/kg/</link>
+        <link>https://sunsiqi26.github.io/tags/kg/</link>
         <description>KG - Tag - Siqi</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>2924045192@qq.com (Siqi Sun)</managingEditor>
-            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Mon, 25 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://sunsiqi26.github.io/public/tags/kg/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Mon, 25 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://sunsiqi26.github.io/tags/kg/" rel="self" type="application/rss+xml" /><item>
     <title>Paper Reading-NPM</title>
-    <link>https://sunsiqi26.github.io/public/pr-pdgraph/</link>
+    <link>https://sunsiqi26.github.io/pr-pdgraph/</link>
     <pubDate>Mon, 25 Jul 2022 21:57:40 &#43;0800</pubDate>
     <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/public/pr-pdgraph/</guid>
+    <guid>https://sunsiqi26.github.io/pr-pdgraph/</guid>
     <description><![CDATA[<p>针对不安全项目依赖的大规模实证研究</p>]]></description>
 </item>
 <item>
     <title>Paper Reading-KG</title>
-    <link>https://sunsiqi26.github.io/public/pr-kg/</link>
+    <link>https://sunsiqi26.github.io/pr-kg/</link>
     <pubDate>Tue, 24 May 2022 21:57:40 &#43;0800</pubDate>
     <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/public/pr-kg/</guid>
+    <guid>https://sunsiqi26.github.io/pr-kg/</guid>
     <description><![CDATA[<p>使用系统审计记录进行推荐的网络威胁分析</p>]]></description>
 </item>
 </channel>

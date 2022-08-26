@@ -1,4 +1,4 @@
-baseURL = "https://sunsiqi26.github.io/public/"
+baseURL = "https://sunsiqi26.github.io/"
 
 # theme
 # 主题
@@ -6,6 +6,7 @@ theme = "LoveIt"
 # themes directory
 # 主题目录
 themesDir = "../.."
+publishDir = "./public"
 
 # website title
 # 网站标题
