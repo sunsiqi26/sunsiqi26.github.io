@@ -1,4 +1,4 @@
-baseURL = 'https://sunsiqi26.github.io/'
+baseURL = 'https://sunsiqi26.github.io/public/'
 languageCode = 'zh-cn'
 title = 'Record'
 theme = "LoveIt"
