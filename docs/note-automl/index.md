@@ -24,23 +24,23 @@ gc.fit(self.x_train.values, self.y_train)
 
 
 ## 深度学习AutoML
-<img src="https://files.mdnice.com/user/9251/d2c8c535-1145-4596-866f-266bb565677f.png" width="50%">
+<div align=center><img src='./1.png' width="60%"></div>
 
 - **搜索空间表示**
   - 最大网络层数
   - 每层可选的元操作
   - 与操作相关的超参数
-  <img src="https://files.mdnice.com/user/9251/aa437f91-4239-4056-8b93-649570b20263.png" width="60%">
+  <div align=center><img src='./2.png' width="70%"></div>
 
 - **搜索策略**
   - 进化计算
-  <img src="https://files.mdnice.com/user/9251/b1d56fff-e5c7-4f26-80d3-1f56d97d6fc9.png" width="70%">
+  <div align=center><img src='./3.png' width="70%"></div>
 
   - 强化学习NAS
-  <img src="https://files.mdnice.com/user/9251/862e6eb2-4037-4226-b747-fdc3b241c33d.png" width="70%">
+  <div align=center><img src='./4.png' width="70%"></div>
 
   - 网络迁移
-  <img src="https://files.mdnice.com/user/9251/f2adb165-350e-46dc-9cd5-d28c9f87b3c3.png" width="70%">
+  <div align=center><img src='./5.png' width="70%"></div>
 
 ## AutoGluon
 ### 功能
