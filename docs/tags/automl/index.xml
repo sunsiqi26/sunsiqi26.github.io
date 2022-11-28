@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>automl - Tag - Siqi</title>
+        <link>https://sunsiqi26.github.io/tags/automl/</link>
+        <description>automl - Tag - Siqi</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>2924045192@qq.com (Siqi Sun)</managingEditor>
+            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Wed, 26 Oct 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://sunsiqi26.github.io/tags/automl/" rel="self" type="application/rss+xml" /><item>
+    <title>Note-AutoML</title>
+    <link>https://sunsiqi26.github.io/note-automl/</link>
+    <pubDate>Wed, 26 Oct 2022 14:57:40 &#43;0800</pubDate>
+    <author>siqi</author>
+    <guid>https://sunsiqi26.github.io/note-automl/</guid>
+    <description><![CDATA[<p>AutoML框架学习记录</p>]]></description>
+</item>
+</channel>
+</rss>

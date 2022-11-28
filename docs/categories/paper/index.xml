@@ -4,7 +4,7 @@
         <link>https://sunsiqi26.github.io/categories/paper/</link>
         <description>Paper - Category - Siqi</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>2924045192@qq.com (Siqi Sun)</managingEditor>
-            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Wed, 24 Aug 2022 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://sunsiqi26.github.io/categories/paper/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Mon, 29 Aug 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://sunsiqi26.github.io/categories/paper/" rel="self" type="application/rss+xml" /><item>
     <title>Paper Reading-ADEPT</title>
     <link>https://sunsiqi26.github.io/pr-adept/</link>
     <pubDate>Wed, 24 Aug 2022 21:29:01 &#43;0800</pubDate>
@@ -19,6 +19,14 @@
     <author>siqi</author>
     <guid>https://sunsiqi26.github.io/pr-taxonomy/</guid>
     <description><![CDATA[<p>开源软件供应链攻击分类</p>]]></description>
+</item>
+<item>
+    <title>Paper Reading-TPL</title>
+    <link>https://sunsiqi26.github.io/pr-modx/</link>
+    <pubDate>Mon, 29 Aug 2022 21:57:40 &#43;0800</pubDate>
+    <author>siqi</author>
+    <guid>https://sunsiqi26.github.io/pr-modx/</guid>
+    <description><![CDATA[<p>基于程序模块化和语义匹配的二进制级别三方库检测</p>]]></description>
 </item>
 <item>
     <title>Paper Reading-NPM</title>

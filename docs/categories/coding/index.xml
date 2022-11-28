@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Coding - Category - Siqi</title>
+        <link>https://sunsiqi26.github.io/categories/coding/</link>
+        <description>Coding - Category - Siqi</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>2924045192@qq.com (Siqi Sun)</managingEditor>
+            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Thu, 25 Aug 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://sunsiqi26.github.io/categories/coding/" rel="self" type="application/rss+xml" /><item>
+    <title>Note-Coding</title>
+    <link>https://sunsiqi26.github.io/note-code/</link>
+    <pubDate>Thu, 25 Aug 2022 14:57:40 &#43;0800</pubDate>
+    <author>siqi</author>
+    <guid>https://sunsiqi26.github.io/note-code/</guid>
+    <description><![CDATA[<p>编程&amp;算法</p>]]></description>
+</item>
+</channel>
+</rss>

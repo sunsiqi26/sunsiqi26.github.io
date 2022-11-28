@@ -4,7 +4,7 @@
         <link>https://sunsiqi26.github.io/</link>
         <description>Hugo theme - LoveIt</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>2924045192@qq.com (Siqi Sun)</managingEditor>
-            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Wed, 24 Aug 2022 21:29:01 &#43;0800</lastBuildDate>
+            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Tue, 01 Nov 2022 14:57:40 &#43;0800</lastBuildDate>
             <atom:link href="https://sunsiqi26.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Paper Reading-ADEPT</title>
@@ -21,6 +21,46 @@
     <author>siqi</author>
     <guid>https://sunsiqi26.github.io/pr-taxonomy/</guid>
     <description><![CDATA[<p>开源软件供应链攻击分类</p>]]></description>
+</item>
+<item>
+    <title>Note-WebShell</title>
+    <link>https://sunsiqi26.github.io/note-webshell/</link>
+    <pubDate>Tue, 01 Nov 2022 14:57:40 &#43;0800</pubDate>
+    <author>siqi</author>
+    <guid>https://sunsiqi26.github.io/note-webshell/</guid>
+    <description><![CDATA[<p>WebShell学习记录</p>]]></description>
+</item>
+<item>
+    <title>Note-AutoML</title>
+    <link>https://sunsiqi26.github.io/note-automl/</link>
+    <pubDate>Wed, 26 Oct 2022 14:57:40 &#43;0800</pubDate>
+    <author>siqi</author>
+    <guid>https://sunsiqi26.github.io/note-automl/</guid>
+    <description><![CDATA[<p>AutoML框架学习记录</p>]]></description>
+</item>
+<item>
+    <title>Paper Reading-TPL</title>
+    <link>https://sunsiqi26.github.io/pr-modx/</link>
+    <pubDate>Mon, 29 Aug 2022 21:57:40 &#43;0800</pubDate>
+    <author>siqi</author>
+    <guid>https://sunsiqi26.github.io/pr-modx/</guid>
+    <description><![CDATA[<p>基于程序模块化和语义匹配的二进制级别三方库检测</p>]]></description>
+</item>
+<item>
+    <title>Note-CTF</title>
+    <link>https://sunsiqi26.github.io/note-ctf/</link>
+    <pubDate>Fri, 26 Aug 2022 14:57:40 &#43;0800</pubDate>
+    <author>siqi</author>
+    <guid>https://sunsiqi26.github.io/note-ctf/</guid>
+    <description><![CDATA[<p>CTF学习记录</p>]]></description>
+</item>
+<item>
+    <title>Note-Coding</title>
+    <link>https://sunsiqi26.github.io/note-code/</link>
+    <pubDate>Thu, 25 Aug 2022 14:57:40 &#43;0800</pubDate>
+    <author>siqi</author>
+    <guid>https://sunsiqi26.github.io/note-code/</guid>
+    <description><![CDATA[<p>编程&amp;算法</p>]]></description>
 </item>
 <item>
     <title>Paper Reading-NPM</title>
@@ -45,46 +85,6 @@
     <author>siqi</author>
     <guid>https://sunsiqi26.github.io/pr-oss/</guid>
     <description><![CDATA[<p>开源软件项目安全与信任的定性研究</p>]]></description>
-</item>
-<item>
-    <title>Paper Reading-NPM</title>
-    <link>https://sunsiqi26.github.io/pr-npm/</link>
-    <pubDate>Tue, 14 Jun 2022 21:57:40 &#43;0800</pubDate>
-    <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/pr-npm/</guid>
-    <description><![CDATA[<p>NPM生态中的弃用机制研究</p>]]></description>
-</item>
-<item>
-    <title>Note-Supply Chain Security</title>
-    <link>https://sunsiqi26.github.io/note-supplychain/</link>
-    <pubDate>Fri, 03 Jun 2022 21:57:40 &#43;0800</pubDate>
-    <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/note-supplychain/</guid>
-    <description><![CDATA[<p>供应链安全学习记录</p>]]></description>
-</item>
-<item>
-    <title>SP&#39;22 paper list</title>
-    <link>https://sunsiqi26.github.io/pl-sp22/</link>
-    <pubDate>Wed, 01 Jun 2022 21:57:40 &#43;0800</pubDate>
-    <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/pl-sp22/</guid>
-    <description><![CDATA[<p>SP'22相关论文记录</p>]]></description>
-</item>
-<item>
-    <title>Paper Reading-JS</title>
-    <link>https://sunsiqi26.github.io/pr-js/</link>
-    <pubDate>Tue, 24 May 2022 21:57:40 &#43;0800</pubDate>
-    <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/pr-js/</guid>
-    <description><![CDATA[<p>将部分JavaScript恶意代码转换为WebAssembly以逃避检测</p>]]></description>
-</item>
-<item>
-    <title>Paper Reading-KG</title>
-    <link>https://sunsiqi26.github.io/pr-kg/</link>
-    <pubDate>Tue, 24 May 2022 21:57:40 &#43;0800</pubDate>
-    <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/pr-kg/</guid>
-    <description><![CDATA[<p>使用系统审计记录进行推荐的网络威胁分析</p>]]></description>
 </item>
 </channel>
 </rss>
