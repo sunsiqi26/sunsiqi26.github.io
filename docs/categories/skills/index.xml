@@ -4,7 +4,23 @@
         <link>https://sunsiqi26.github.io/categories/skills/</link>
         <description>Skills - Category - Siqi</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>2924045192@qq.com (Siqi Sun)</managingEditor>
-            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Tue, 01 Nov 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://sunsiqi26.github.io/categories/skills/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Sat, 01 Apr 2023 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://sunsiqi26.github.io/categories/skills/" rel="self" type="application/rss+xml" /><item>
+    <title>Note-Vulfocus</title>
+    <link>https://sunsiqi26.github.io/note-vulfocus/</link>
+    <pubDate>Sat, 01 Apr 2023 14:57:40 &#43;0800</pubDate>
+    <author>siqi</author>
+    <guid>https://sunsiqi26.github.io/note-vulfocus/</guid>
+    <description><![CDATA[<p>Vulfocus学习记录</p>]]></description>
+</item>
+<item>
+    <title>Note-Programming</title>
+    <link>https://sunsiqi26.github.io/note-programming/</link>
+    <pubDate>Sun, 26 Mar 2023 14:57:40 &#43;0800</pubDate>
+    <author>siqi</author>
+    <guid>https://sunsiqi26.github.io/note-programming/</guid>
+    <description><![CDATA[<p>笔试编程题记录</p>]]></description>
+</item>
+<item>
     <title>Note-WebShell</title>
     <link>https://sunsiqi26.github.io/note-webshell/</link>
     <pubDate>Tue, 01 Nov 2022 14:57:40 &#43;0800</pubDate>
@@ -19,14 +35,6 @@
     <author>siqi</author>
     <guid>https://sunsiqi26.github.io/note-automl/</guid>
     <description><![CDATA[<p>AutoML框架学习记录</p>]]></description>
-</item>
-<item>
-    <title>Note-CTF</title>
-    <link>https://sunsiqi26.github.io/note-ctf/</link>
-    <pubDate>Fri, 26 Aug 2022 14:57:40 &#43;0800</pubDate>
-    <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/note-ctf/</guid>
-    <description><![CDATA[<p>CTF学习记录</p>]]></description>
 </item>
 </channel>
 </rss>

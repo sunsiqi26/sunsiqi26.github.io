@@ -4,7 +4,7 @@
         <link>https://sunsiqi26.github.io/</link>
         <description>Hugo theme - LoveIt</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>2924045192@qq.com (Siqi Sun)</managingEditor>
-            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Tue, 01 Nov 2022 14:57:40 &#43;0800</lastBuildDate>
+            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Sat, 01 Apr 2023 14:57:40 &#43;0800</lastBuildDate>
             <atom:link href="https://sunsiqi26.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Paper Reading-ADEPT</title>
@@ -21,6 +21,22 @@
     <author>siqi</author>
     <guid>https://sunsiqi26.github.io/pr-taxonomy/</guid>
     <description><![CDATA[<p>开源软件供应链攻击分类</p>]]></description>
+</item>
+<item>
+    <title>Note-Vulfocus</title>
+    <link>https://sunsiqi26.github.io/note-vulfocus/</link>
+    <pubDate>Sat, 01 Apr 2023 14:57:40 &#43;0800</pubDate>
+    <author>siqi</author>
+    <guid>https://sunsiqi26.github.io/note-vulfocus/</guid>
+    <description><![CDATA[<p>Vulfocus学习记录</p>]]></description>
+</item>
+<item>
+    <title>Note-Programming</title>
+    <link>https://sunsiqi26.github.io/note-programming/</link>
+    <pubDate>Sun, 26 Mar 2023 14:57:40 &#43;0800</pubDate>
+    <author>siqi</author>
+    <guid>https://sunsiqi26.github.io/note-programming/</guid>
+    <description><![CDATA[<p>笔试编程题记录</p>]]></description>
 </item>
 <item>
     <title>Note-WebShell</title>
@@ -45,22 +61,6 @@
     <author>siqi</author>
     <guid>https://sunsiqi26.github.io/pr-modx/</guid>
     <description><![CDATA[<p>基于程序模块化和语义匹配的二进制级别三方库检测</p>]]></description>
-</item>
-<item>
-    <title>Note-CTF</title>
-    <link>https://sunsiqi26.github.io/note-ctf/</link>
-    <pubDate>Fri, 26 Aug 2022 14:57:40 &#43;0800</pubDate>
-    <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/note-ctf/</guid>
-    <description><![CDATA[<p>CTF学习记录</p>]]></description>
-</item>
-<item>
-    <title>Note-Coding</title>
-    <link>https://sunsiqi26.github.io/note-code/</link>
-    <pubDate>Thu, 25 Aug 2022 14:57:40 &#43;0800</pubDate>
-    <author>siqi</author>
-    <guid>https://sunsiqi26.github.io/note-code/</guid>
-    <description><![CDATA[<p>编程&amp;算法</p>]]></description>
 </item>
 <item>
     <title>Paper Reading-NPM</title>

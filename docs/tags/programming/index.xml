@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>programming - Tag - Siqi</title>
+        <link>https://sunsiqi26.github.io/tags/programming/</link>
+        <description>programming - Tag - Siqi</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>2924045192@qq.com (Siqi Sun)</managingEditor>
+            <webMaster>2924045192@qq.com (Siqi Sun)</webMaster><lastBuildDate>Sun, 26 Mar 2023 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://sunsiqi26.github.io/tags/programming/" rel="self" type="application/rss+xml" /><item>
+    <title>Note-Programming</title>
+    <link>https://sunsiqi26.github.io/note-programming/</link>
+    <pubDate>Sun, 26 Mar 2023 14:57:40 &#43;0800</pubDate>
+    <author>siqi</author>
+    <guid>https://sunsiqi26.github.io/note-programming/</guid>
+    <description><![CDATA[<p>笔试编程题记录</p>]]></description>
+</item>
+</channel>
+</rss>
